@@ -1,5 +1,5 @@
-# Designerly Live
+# Designerly Live Build
 
-Public deployment bundle for the Designerly MVP.
+Public static build output for Designerly. The private source repo remains introvertstudio/designerly.
 
-This repository contains only the built static frontend files generated from the private Designerly workspace.
+Live URL: https://introvertstudio.github.io/designerly-live/
